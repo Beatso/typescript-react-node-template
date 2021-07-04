@@ -11,7 +11,6 @@
 	"arrowParens": "always",
 	"proseWrap": "never",
 	"htmlWhitespaceSensitivity": "ignore",
-	"vueIndentScriptAndStyle": true,
 	"endOfLine": "lf",
 	"embeddedLanguageFormatting": "auto"
 }
