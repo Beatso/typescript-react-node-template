@@ -25,10 +25,7 @@ jobs:
 
       - name: Install npm dependencies
         run: npm ci
-
-      - name: Prettier Formatting Check
-        run: npm run prettier:check
-
+        
       - name: Build React App
         run: npm run build
 
